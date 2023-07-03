@@ -1,0 +1,11 @@
+Boa noite Roger.
+
+O site possui algumas opções de produtos para visualização e páginas acessíveis na barra de navegação.
+Apenas estará acessível os 6 primeiros produtos iniciais.
+Na barra de navegação criei páginas nas opções SUPORTE e CADASTRE-SE.
+
+Caso queira utilizar o GITHUB:
+https://lucaslollijunges.github.io/projetoweb.github.io/
+
+
+Obrigado!
